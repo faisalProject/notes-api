@@ -3,8 +3,9 @@
 Make sure you have Node and NPM installed in your device
 1. Run in your terminal `npmi init --y`
 2. Run in your terminal `npm i @hapi/hapi` for framework
-3. Run in your terminal `npm i nodemon --save-dev`
-4. Run in your terminal `npm i eslint --save-dev`
+3. Run in your terminal `npm install nanoid@3.x.x`
+4. Run in your terminal `npm i nodemon --save-dev`
+5. Run in your terminal `npm i eslint --save-dev`
 
 ## Usage
 ### For nodemon
