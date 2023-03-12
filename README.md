@@ -1,10 +1,10 @@
 ## Installation
 
 Make sure you have Node and NPM installed in your device
-1. Run `npmi init --y`
-2. Run `npm i @hapi/hapi` for framework
-3. Run `npm i nodemon --save-dev`
-4. Run `npm i eslint --save-dev`
+1. run in your terminal `npmi init --y`
+2. run in your terminal `npm i @hapi/hapi` for framework
+3. run in your terminal `npm i nodemon --save-dev`
+4. run in your terminal `npm i eslint --save-dev`
 
 ## Usage
 ### for nodemon
@@ -14,7 +14,7 @@ after installing nodemon, open the package.json file, create a new npm runner sc
     "start": "nodemon ./src/server.js",
 },
 
-### `npx eslint --init` for initialization
+### run in your terminal `npx eslint --init` for initialization
 1. How would you like to use ESLint? -> To check, find problems, and enforce code style.
 2. What type of modules does your project use? -> module (import/export).
 3. Which framework did you use? -> None of these. 
