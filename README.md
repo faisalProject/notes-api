@@ -8,7 +8,7 @@ Make sure you have Node and NPM installed in your device
 
 ## Usage
 ### For nodemon
-after installing nodemon, open the package.json file, create a new npm runner script to run server.js using nodemon.
+After installing nodemon, open the package.json file, create a new npm runner script to run server.js using nodemon.
 
 "scripts": {
     "start": "nodemon ./src/server.js",
