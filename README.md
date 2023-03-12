@@ -1,20 +1,20 @@
 ## Installation
 
 Make sure you have Node and NPM installed in your device
-1. run in your terminal `npmi init --y`
-2. run in your terminal `npm i @hapi/hapi` for framework
-3. run in your terminal `npm i nodemon --save-dev`
-4. run in your terminal `npm i eslint --save-dev`
+1. Run in your terminal `npmi init --y`
+2. Run in your terminal `npm i @hapi/hapi` for framework
+3. Run in your terminal `npm i nodemon --save-dev`
+4. Run in your terminal `npm i eslint --save-dev`
 
 ## Usage
-### for nodemon
+### For nodemon
 after installing nodemon, open the package.json file, create a new npm runner script to run server.js using nodemon.
 
 "scripts": {
     "start": "nodemon ./src/server.js",
 },
 
-### run in your terminal `npx eslint --init` for initialization
+### Run in your terminal `npx eslint --init` for initialization
 1. How would you like to use ESLint? -> To check, find problems, and enforce code style.
 2. What type of modules does your project use? -> module (import/export).
 3. Which framework did you use? -> None of these. 
@@ -25,7 +25,7 @@ after installing nodemon, open the package.json file, create a new npm runner sc
 7. What format do you want your config file to be in? -> JSON.
 8. Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
 
-### for eslint
+### For eslint
 After making the ESLint configuration, then we use ESLint to examine the JavaScript code in the project. But before that, we need to add the following npm runner inside the package.json file.
 
 "scripts": {
