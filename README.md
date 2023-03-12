@@ -17,7 +17,7 @@ After installing nodemon, open the package.json file, create a new npm runner sc
 
 ### Run in your terminal `npx eslint --init` for initialization
 1. How would you like to use ESLint? -> To check, find problems, and enforce code style.
-2. What type of modules does your project use? -> module (import/export).
+2. What type of modules does your project use? -> Javascript modules (import/export).
 3. Which framework did you use? -> None of these. 
 4. Does your project use TypeScript? -> N.
 5. Where does your code run? -> Node (select using space).
