@@ -1,3 +1,5 @@
+# Notes
+
 ## Installation
 
 Make sure you have Node and NPM installed in your device
